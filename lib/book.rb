@@ -7,4 +7,8 @@ class Book
     @page_count = page_count
     @genre = genre
   end
+  
+  def
+    
+  end
 end
